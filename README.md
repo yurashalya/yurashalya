@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yurii Shalia</h1>
-<h3 align="center">Tech savvy front-end developer with more than 6 years of experience in software development, including React, React Native, Next.JS and other libraries. Extensive knowledge in UI/UX, testing, optimization solutions and debugging processes, developed technical and architectural solutions. A team player who easily connects with any stakeholder, they are distinguished by their strong analytical capabilities and thriving collaborative teamwork skills.</h3>
+<h3 align="center">Tech savvy front-end developer with more than 8 years of experience in software development, including React, React Native, Next.JS and other libraries. Extensive knowledge in UI/UX, testing, optimization solutions and debugging processes, developed technical and architectural solutions. A team player who easily connects with any stakeholder, they are distinguished by their strong analytical capabilities and thriving collaborative teamwork skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurashalya&label=Profile%20views&color=0e75b6&style=flat" alt="yurashalya" /> </p>
 
